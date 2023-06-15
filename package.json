@@ -1,0 +1,22 @@
+{
+  "name": "contact-form-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "mysql2": "^3.3.5"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "jest-mock": "^29.5.0",
+    "supertest": "^6.3.3"
+  }
+}
